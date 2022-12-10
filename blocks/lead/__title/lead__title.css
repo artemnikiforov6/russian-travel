@@ -1,0 +1,29 @@
+.lead__title {
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+  padding: 48px 16px 0 16px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 768px) {
+  .lead__title {
+    font-size: 96px;
+    line-height: 100px;
+    padding: 48px 24px 0 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .lead__title {
+    padding: 48px 152px 0 152px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__title {
+    padding: 56px 280px 0 280px;
+  }
+}
