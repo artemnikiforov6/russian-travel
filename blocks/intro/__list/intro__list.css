@@ -18,6 +18,8 @@
 @media screen and (min-width: 1024px) {
   .intro__list {
     padding: 0 286px 0 48px;
+    margin: auto;
+    max-width: 690px;
   }
 }
 

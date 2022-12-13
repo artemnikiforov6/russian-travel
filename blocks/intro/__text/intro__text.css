@@ -11,19 +11,19 @@
 @media screen and (min-width: 768px) {
   .intro__text {
     padding: 0 24px 33px 24px;
-    font-size: 16px;
-    line-height: 163%;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .intro__text {
     padding: 0 286px 33px 48px;
+    margin: auto;
+    max-width: 690px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .intro__text {
     padding: 0 442px 32px 148px;
-  }
+}
 }

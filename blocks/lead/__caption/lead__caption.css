@@ -5,26 +5,20 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  padding-left: 16px;
   padding-top: 4px;
   margin: 0 auto;
 }
 
-@media screen and (min-width: 768px) {
-  .lead__caption {
-    padding-left: 24px;
-  }
-}
-
 @media screen and (min-width: 1024px) {
   .lead__caption {
-    padding-left: 47px;
     padding-top: 8px;
+    max-width: 928px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .lead__caption {
-    padding-left: 148px;
+    max-width: 984px;
   }
 }
+

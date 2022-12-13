@@ -19,6 +19,8 @@
 @media screen and (min-width: 1024px) {
   .intro__title {
     padding: 92px 286px 40px 48px;
+    margin: auto;
+    max-width: 690px;
   }
 }
 
